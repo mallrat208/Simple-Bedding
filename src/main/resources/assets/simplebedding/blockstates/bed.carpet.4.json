@@ -1,0 +1,14 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "simplebedding:bed.carpet"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "occupied": {
+      "true": {},
+      "false": {}
+    }
+  }
+}
